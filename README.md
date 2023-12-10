@@ -1,4 +1,69 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/qqXU2C2q)
-# odev-3
+# base
 
-Ödevin detayları patika-odev-3.pdf dosyasında
+## Project setup
+
+```
+# yarn
+yarn
+
+# npm
+npm install
+
+# pnpm
+pnpm install
+
+# pnpm
+bun install
+```
+
+### Compiles and hot-reloads for development
+
+```
+# yarn
+yarn dev
+
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
+
+# bun
+bun run dev
+```
+
+### Compiles and minifies for production
+
+```
+# yarn
+yarn build
+
+# npm
+npm run build
+
+# pnpm
+pnpm build
+
+# bun
+bun run build
+```
+
+### Lints and fixes files
+
+```
+# yarn
+yarn lint
+
+# npm
+npm run lint
+
+# pnpm
+pnpm lint
+
+# bun
+bun run lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://vitejs.dev/config/).
